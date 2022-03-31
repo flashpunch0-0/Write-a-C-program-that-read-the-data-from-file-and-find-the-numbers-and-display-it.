@@ -1,0 +1,1 @@
+# Write-a-C-program-that-read-the-data-from-file-and-find-the-numbers-and-display-it.
